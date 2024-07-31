@@ -12,8 +12,8 @@ This project is a simple CRUD (Create, Read, Update, Delete) API for managing pr
 
 2. **Install Dependencies**
    ```sh
-npm install
-npm install -g sequelize-cli
+   npm install
+   npm install -g sequalize-cli
 
 3. **Edit Sequelize Configuration**
    Create a database in the laragon mysql
