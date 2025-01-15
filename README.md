@@ -10,7 +10,7 @@ This project is a simple CRUD (Create, Read, Update, Delete) API for managing pr
    git clone https://github.com/yourusername/product-crud-api.git
    cd product-crud-api
 
-2. **Install Dependencies**
+2. **Install Dependencies**b hmmmm
    ```sh
    npm install
    npm install -g sequalize-cli
