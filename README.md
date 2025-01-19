@@ -1,4 +1,4 @@
-# Product CRUD API xxxxx
+# Product CRUD API
 
 This project is a simple CRUD (Create, Read, Update, Delete) API for managing products, built with Node.js, Express, and Sequelize ORM for MySQL.
 
