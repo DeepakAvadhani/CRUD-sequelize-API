@@ -27,6 +27,7 @@ This project is a simple CRUD (Create, Read, Update, Delete) API for managing pr
    npx sequelize-cli db:migrate
 5. **Run the Index file**
    ```sh
+   
     node index.js
 
 6. **Verify Functionality**
