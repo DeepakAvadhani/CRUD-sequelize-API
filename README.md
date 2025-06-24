@@ -39,6 +39,4 @@ This project is a simple CRUD (Create, Read, Update, Delete) API for managing pr
      * PUT http://localhost:3001/api/products/update/:id to update a product.
      * DELETE http://localhost:3001/api/products/delete/:id to delete a product.
 
-
-
    
